@@ -1,2 +1,2 @@
 # ExpTeamA-spark
-## ¼ì²éµ¥
+## the lists of checking
